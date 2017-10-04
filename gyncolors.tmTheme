@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>name</key>
+    <string>GynColors</string>
+    <key>settings</key>
+    <array>
+        <dict>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#463B75</string>
+                <key>foreground</key>
+                <string>#9387C2</string>
+                <key>lineHighlight</key>
+                <string>#8b8bcd</string>
+                <key>selection</key>
+                <string>#eeeeee</string>
+                <key>caret</key>
+                <string>#2e2e37</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Colors for comment</string>
+            <key>scope</key>
+            <string>comment</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#00ff00</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Colors for special keywords</string>
+            <key>scope</key>
+            <string>keyword.control</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c080d0</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Colors for preprocessor</string>
+            <key>scope</key>
+            <string>meta.preprocessor, keyword.control.import</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#409090</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Colors for string</string>
+            <key>scope</key>
+            <string>string</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f0ad6d</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Colors for number</string>
+            <key>scope</key>
+            <string>storage.type, support.type</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ff8bff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Colors for number</string>
+            <key>scope</key>
+            <string>constant.numeric</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f0ad6d</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Text and Source Base Colors</string>
+            <key>scope</key>
+            <string>text, source</string>
+            <key>settings</key>
+            <dict>
+              <key>foreground</key>
+              <string>#5ED378</string>
+              <key>background</key>
+              <string>#1B1B33</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
