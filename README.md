@@ -10,5 +10,7 @@ How to install: http://docs.sublimetext.info/en/latest/reference/color_schemes.h
 ## Current status:
 Work in progress! 
 
+![](current.png)
+
 
 Feel free to contribute.
