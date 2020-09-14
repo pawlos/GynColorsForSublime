@@ -14,3 +14,5 @@ Work in progress!
 
 
 Feel free to contribute.
+
+[![Hits-of-Code](https://hitsofcode.com/github/pawlos/GynColorsForSublime)](https://hitsofcode.com/view/github/pawlos/GynColorsForSublime)
